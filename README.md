@@ -1,0 +1,1 @@
+# A-predictive-model-based-on-Galton-Family-Data
